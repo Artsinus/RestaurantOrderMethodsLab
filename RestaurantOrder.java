@@ -104,6 +104,6 @@ public class RestaurantOrder {
 
         System.out.printf("Subtotal: $%.2f%n", subtotal);
         System.out.printf("Total: $%.2f%n", finalTotal);
-        System.out.printf("10%% Discount Total $%.2f%n", discountedTotal);
+        System.out.printf("10%% Discount Total: $%.2f%n", discountedTotal);
     }
 }
